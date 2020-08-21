@@ -1,0 +1,1 @@
+add folder with names with the user name, and folder should contain image of that user only.
